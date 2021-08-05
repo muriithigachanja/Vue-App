@@ -1,10 +1,8 @@
-
 <template>
     <v-container fluid class=" lighten-4">
         <v-container grid-list-lg>
             <v-layout column>
-                <v-flex
-                    class="display-2 font-weight-black  text-xs-center my-5"
+                <v-flex class="display-2 font-weight-black  text-xs-center my-5"
                     >How It Works</v-flex
                 >
                 <v-flex>
@@ -42,8 +40,6 @@
                         Nullam quam massa, ultrices eget tincidunt a, pulvinar
                         ac libero.
                     </p>
-
-                  
 
                     <p class="subheading mt-3">
                         Aenean erat metus, imperdiet eget nisl laoreet,

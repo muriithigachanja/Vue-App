@@ -1,13 +1,11 @@
 <template>
-    
-        <!-- <app-header></app-header> -->
-        <!-- <navigation-tabs></navigation-tabs> -->
-        <!-- <app-navigation></app-navigation> -->
+    <!-- <app-header></app-header> -->
+    <!-- <navigation-tabs></navigation-tabs> -->
+    <!-- <app-navigation></app-navigation> -->
 
-        <v-content transition="slide-x-transition">
-            <router-view></router-view>
-        </v-content>
-    
+    <v-content transition="slide-x-transition">
+        <router-view></router-view>
+    </v-content>
 </template>
 
 <script>
@@ -20,7 +18,6 @@ export default {
     components: {
         // NavigationTabs,
         // AppHeader
-        
     }
 };
 </script>
